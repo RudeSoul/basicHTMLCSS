@@ -1,0 +1,48 @@
+.red {
+  background-color: red;
+}
+.box {
+  /* width: 500px; */
+  height: 500px;
+  background-color: green;
+}
+.learnfloat {
+  background-color: blue;
+  height: 500px;
+  width: 500px;
+  float: right;
+}
+.learnfloat-left {
+  background-color: pink;
+  height: 500px;
+  width: 500px;
+  float: left;
+}
+.learnfloat .left {
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+.navbar-botton1,
+.navbar-botton2 {
+  width: auto;
+}
+li {
+  float: left;
+  display: contents;
+  line-height: 12px;
+}
+.activestate li {
+  color: gray;
+}
+
+.active {
+  color: black;
+}
+.activestateli: active {
+  color: black;
+}
+.activestate :hover {
+  color: red;
+}
